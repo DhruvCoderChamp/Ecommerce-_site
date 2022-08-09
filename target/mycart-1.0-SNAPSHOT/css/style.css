@@ -1,0 +1,16 @@
+.custom-bg {
+    background: purple;
+}
+
+.admin .card {
+    border: 1px solid grey;
+}
+
+.admin .card:hover {
+    background: green;
+    cursor: pointer;
+}
+
+.list-group-item.active {
+    background: purple;
+}
